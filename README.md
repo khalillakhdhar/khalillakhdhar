@@ -6,10 +6,15 @@ Here are some ideas to get you started:
  <table><tr>
  <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="150" height="200" title="hover text"></td>
  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="150" height="200" title="hover text"></td>
- <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="150" height="200" title="hover text"></td></tr>
-  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="150" height="200" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="150" height="200" title="hover text"></td></tr></table>
+ <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="150" height="200" title="hover text"></td>
+ <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="150" height="200" title="hover text"></td>
+ </tr>
+  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="150" height="200" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="150" height="200" title="hover text"></td>
+  <td><img src="https://www.project-disco.org/wp-content/uploads/2018/04/Android-logo.jpg" height="200" title="hover text"></td>
+ </tr></table>
   <br>
-  💬  <a href="https://www.linkedin.com/in/khalil-lakhdhar-protech/" target="_blank">my LINKEDIN </a>
+  💬  <a href="https://www.linkedin.com/in/khalil-lakhdhar-protech/" target="blank">my LINKEDIN </a>
+  <table border="0"><tr><td> 🤔 If you need help send me an email on:</td><td><a href="mailto:contact@protech-it.org">contact@protech-it.org</a> /<a href="mailto:khalillakhdharatc@gmail.com">khalillakhdharatc@gmail.com</a> </td><tr>
 <!--
 **khalillakhdhar/khalillakhdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
