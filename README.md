@@ -3,9 +3,7 @@ Here are some ideas to get you started:
  
  
  - 🔭 I’m currently working on  :
- <table><tr><td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="150" height="100" title="hover text"></td><td>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="150" height="100" title="hover text"></td></tr></table>
 <!--
 **khalillakhdhar/khalillakhdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
