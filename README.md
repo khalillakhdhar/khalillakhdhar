@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## welcome to my profile
+<p align="center"><img src="https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/32312946_2045728262374499_8493956194786869248_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=y2YF3FWk4pQAX-qrmeW&_nc_ht=scontent.ftun2-1.fna&oh=7fa8bd1edb2a3026d11723dcd213d850&oe=5FD4DCF4" height="150" width="150"></p>
 Here are some ideas to get you started:
  
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalillakhdhar&layout=compact&hide=html" alt="khalil lakhdhar" /><br><p>
