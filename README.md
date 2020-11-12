@@ -6,11 +6,15 @@ Here are some ideas to get you started:
  <table><tr>
  <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title="hover text"></td>
  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="80" height="80" title="hover text"></td>
- <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="80" height="80" title="hover text"></td>
+ <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-220px-Node.js_logo.svg.png" width="80" height="80" title="hover text"></td>
  <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
+   <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" width="80" height="80" title="hover text"></td>
+   <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/131px-PHP-logo.svg.png" width="80" height="80" title="hover text"></td>
  </tr>
   <tr><td><img src="https://miro.medium.com/max/700/1*EVqCcmCPgpNKxU1wzcTHgw.png" width="80" height="80" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="80" height="80" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="80" height="80" title="hover text"></td>
   <td><img src="https://www.project-disco.org/wp-content/uploads/2018/04/Android-logo.jpg" height="80" title="hover text"></td>
+    <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
+    <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
  </tr></table>
  </p>
   <br>
