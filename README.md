@@ -7,7 +7,7 @@ Here are some ideas to get you started:
  <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="150" height="200" title="hover text"></td>
  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="150" height="200" title="hover text"></td>
  <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="150" height="200" title="hover text"></td></tr>
-  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/1*iIXOmGDzrtTJmdwbn7cGMw.png" width="150" height="200" title="hover text"></td></tr></table>
+  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="150" height="200" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="150" height="200" title="hover text"></td></tr></table>
 <!--
 **khalillakhdhar/khalillakhdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
