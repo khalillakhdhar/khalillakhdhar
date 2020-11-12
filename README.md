@@ -1,16 +1,16 @@
 ### Hi there 👋
 Here are some ideas to get you started:
  
- 
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalillakhdhar&layout=compact&hide=html" alt="khalil lakhdhar" /><br>
  - 🔭 I’m currently working on  :
  <table><tr>
- <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="150" height="200" title="hover text"></td>
- <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="150" height="200" title="hover text"></td>
- <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="150" height="200" title="hover text"></td>
- <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="150" height="200" title="hover text"></td>
+ <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title="hover text"></td>
+ <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="80" height="80" title="hover text"></td>
+ <td><img src="https://lerjen.me/wp-content/uploads/2015/05/maxresdefault.jpg" width="80" height="80" title="hover text"></td>
+ <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
  </tr>
-  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="150" height="200" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="150" height="200" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="150" height="200" title="hover text"></td>
-  <td><img src="https://www.project-disco.org/wp-content/uploads/2018/04/Android-logo.jpg" height="200" title="hover text"></td>
+  <tr><td><img src="https://miro.medium.com/max/1000/0*3fdPMV1iF054U135.jpg" width="80" height="80" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="80" height="80" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="80" height="80" title="hover text"></td>
+  <td><img src="https://www.project-disco.org/wp-content/uploads/2018/04/Android-logo.jpg" height="80" title="hover text"></td>
  </tr></table>
   <br>
   💬  <a href="https://www.linkedin.com/in/khalil-lakhdhar-protech/" target="blank">my LINKEDIN </a>
@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 Here are some ideas to get you started:
  
  
- - 🔭 I’m currently working on  <img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="150" height="100" title="hover text">
+ - 🔭 I’m currently working on  <img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="100" title="hover text">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="150" height="100" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="80" height="100" title="hover text">
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 my facebook ...
