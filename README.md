@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <tr><td><img src="https://miro.medium.com/max/700/1*EVqCcmCPgpNKxU1wzcTHgw.png" width="80" height="80" title="hover text"></td><td><img src="https://miro.medium.com/max/700/0*u2NEmijD3rg3m1La.png" width="80" height="80" title="hover text"></td><td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="80" height="80" title="hover text"></td>
   <td><img src="https://www.project-disco.org/wp-content/uploads/2018/04/Android-logo.jpg" height="80" title="hover text"></td>
     <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
-    <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title="hover text"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/langfr-220px-Laravel.svg.png" width="80" height="80" title="hover text"></td>
  </tr></table>
  </p>
   <br>
