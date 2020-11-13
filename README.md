@@ -3,10 +3,10 @@
 <p align="center"><img src="https://scontent.ftun2-1.fna.fbcdn.net/v/t1.0-9/32312946_2045728262374499_8493956194786869248_n.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=y2YF3FWk4pQAX-qrmeW&_nc_ht=scontent.ftun2-1.fna&oh=7fa8bd1edb2a3026d11723dcd213d850&oe=5FD4DCF4" height="150" width="150"></p>
 Few things about me before getting you started:
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalillakhdhar&layout=compact&hide=html" alt="khalil lakhdhar" /><br><p>
+ <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalillakhdhar&layout=compact&hide=html" alt="khalil lakhdhar" /><br><p>
  <p>- 🔭 I’m currently working on  :
  <table><tr>
- <td><img src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title=""></td>
+ <td><img  src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title=""></td>
  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="80" height="80" title=""></td>
  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-220px-Node.js_logo.svg.png" width="80" height="80" title=""></td>
  <td><img src="https://www.igloocoder.com/images/RPi-Logo.png" width="80" height="80" title=""></td>
