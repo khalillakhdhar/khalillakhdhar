@@ -4,7 +4,7 @@
 Few things about me before getting you started:
  
  <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalillakhdhar&layout=compact&hide=html" alt="khalil lakhdhar" /><br><p>
- <p>- 🔭 I’m currently working on  :
+ <p>- 🔭 I’m currently working (mostly) on  :
  <table><tr>
  <td><img  src="https://miro.medium.com/max/4000/0*bpt3hdn8q6Xw4MOZ.png" width="80" height="80" title=""></td>
  <td>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/180px-Python.svg.png" width="80" height="80" title=""></td>
