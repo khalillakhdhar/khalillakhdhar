@@ -22,6 +22,7 @@ Few things about me before getting you started:
     <td><img src="https://symfony.com/images/logos/header-logo.svg" width="80" height="80" title=""></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Asp.net.svg" width="80" height="80" title=""></td>
  </tr></table>
+ <h2>And many other languages libraries and frameworks</h2>
  </p>
   <br>
   💬  <a href="https://www.linkedin.com/in/khalil-lakhdhar-protech/" target="blank">my LINKEDIN </a>
