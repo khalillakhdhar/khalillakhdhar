@@ -26,7 +26,7 @@ Here are few things about me before getting you started:
  </p>
   <br>
   💬  <a href="https://www.linkedin.com/in/khalil-lakhdhar-protech/" target="blank">my LINKEDIN </a>
-  <table border="0"><tr><td> 🤔 If you need help send me an email on:</td><td><a href="mailto:contact@protech-it.org">contact@protech-it.org</a> /<a href="mailto:khalillakhdharatc@gmail.com">khalillakhdharatc@gmail.com</a> </td><tr>
+  <table border="0"><tr><td> 🤔 If you need help send me an email on:</td><td><a href="mailto:khalillakhdhar@protech-it.org">contact@protech-it.org</a> /<a href="mailto:khalillakhdharatc@gmail.com">khalillakhdharatc@gmail.com</a> </td><tr>
 <!--
 **khalillakhdhar/khalillakhdhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
